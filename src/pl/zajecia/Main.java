@@ -1,4 +1,4 @@
-package pl.zajecia; //zmiana
+package pl.zajecia;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Iteracja: " + Iteracja(6));
